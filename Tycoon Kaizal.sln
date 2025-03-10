@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tycoon Kaizal", "Tycoon Kaizal\Tycoon Kaizal.csproj", "{9FD03748-5931-4F3A-A1D5-70EA6D263F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD03748-5931-4F3A-A1D5-70EA6D263F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD03748-5931-4F3A-A1D5-70EA6D263F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD03748-5931-4F3A-A1D5-70EA6D263F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD03748-5931-4F3A-A1D5-70EA6D263F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30795EAD-AA64-4DB5-A237-05AD2887459E}
+	EndGlobalSection
+EndGlobal
